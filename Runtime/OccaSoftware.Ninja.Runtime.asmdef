@@ -1,0 +1,14 @@
+{
+    "name": "OccaSoftware.Ninja.Runtime",
+    "rootNamespace": "OccaSoftware.Ninja.Runtime",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
