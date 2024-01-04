@@ -10,5 +10,6 @@
     "url": "https://www.occasoftware.com/"
   },
   "documentationUrl": "https://docs.occasoftware.com/",
-  "unityRelease": "0f1"
+  "unityRelease": "0f1",
+  "packageType": "package",
 }
